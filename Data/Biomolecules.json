@@ -1,0 +1,794 @@
+{
+    "Biomolecules": {
+        "http://arxiv.org/abs/1801.09442v3": {
+            "Paper Title": "Preface to Introduction to Protein Structural Bioinformatics",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1803.08718v3": {
+            "Paper Title": "Learning protein constitutive motifs from sequence data",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1812.10841v1": {
+            "Paper Title": "Three-Dimensional Krawtchouk Descriptors for Protein Local Surface Shape\n  Comparison",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1812.09352v1": {
+            "Paper Title": "Determinants of cyclization-decyclization kinetics of short DNA with\n  sticky ends",
+            "Sentences": [
+                {
+                    "Sentence ID": 52,
+                    "Sentence": ". As shown in this plot, the\nJ factors of DNA set 1 correspond to persistence lengths\nbetween 44 and 49 nm. This 5-nm variability is still\nwithin the accepted range of experimentally determined\nvalues ",
+                    "Citation Text": "A. Brunet, C. Tardin, L. Salome, P. Rousseau,\nN. Destainville, and M. Manghi, Macromolecules 48,\n3641 (2015).",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1504.02666",
+                        "Citation Paper Title": "Title:Dependence of DNA persistence length on ionic strength of solutions with monovalent and divalent salts: a joint theory-experiment study",
+                        "Citation Paper Abstract": "Abstract:Using high-throughput Tethered Particle Motion single molecule experiments, the double-stranded DNA persistence length, $L_p$, is measured in solutions with Na$^+$ and Mg$^{2+}$ ions of various ionic strengths, $I$. Several theoretical equations for $L_p(I)$ are fitted to the experimental data, but no decisive theory is found which fits all the $L_p$ values for the two ion valencies. Properly extracted from the particle trajectory using simulations, $L_p$ varies from 30~nm to 55~nm, and is compared to previous experimental results. For the Na$^+$ only case, $L_p$ is an increasing concave function of $I^{-1}$, well fitted by Manning's electrostatic stretching approach, but not by classical Odjik-Skolnick-Fixman theories with or without counter-ion condensation. With added Mg$^{2+}$ ions, $L_p$ shows a marked decrease at low $I$, interpreted as an ion-ion correlation effect, with an almost linear law in $I^{-1}$, fitted by a proposed variational approach.",
+                        "Citation Paper Authors": "Authors:Anna\u00ebl Brunet, Catherine Tardin, Laurence Salom\u00e9, Philippe Rousseau, Nicolas Destainville, Manoel Manghi"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/1812.06937v1": {
+            "Paper Title": "Resolving dynamics and function of transient states in single enzyme\n  molecules",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1812.00967v1": {
+            "Paper Title": "FoldingZero: Protein Folding from Scratch in Hydrophobic-Polar Model",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1811.09536v1": {
+            "Paper Title": "Protein Folding and Machine Learning: Fundamentals",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1811.00531v2": {
+            "Paper Title": "Single-molecule imaging of DNA gyrase activity in living Escherichia\n  coli",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1810.08751v1": {
+            "Paper Title": "Recent advances on the non-coherent band surgery model for site-specific\n  recombination",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1810.01561v1": {
+            "Paper Title": "Lattice nano-ripples revealed in peptide microcrystals by scanning\n  electron nanodiffraction",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1809.02032v1": {
+            "Paper Title": "Latent Molecular Optimization for Targeted Therapeutic Design",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1808.09223v1": {
+            "Paper Title": "Two Heads Are (Sometimes) Better Than One: How Rate Formulations Impact\n  Molecular Motor Dynamics",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1808.01168v1": {
+            "Paper Title": "An All-Electric Single-Molecule Hybridisation Detector for short DNA\n  Fragments",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1805.03715v1": {
+            "Paper Title": "Mapping energy transport networks in proteins",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1804.11081v1": {
+            "Paper Title": "Visualizing mitochondrial FoF1-ATP synthase as the target of the\n  immunomodulatory drug Bz-423",
+            "Sentences": [
+                {
+                    "Sentence ID": 34,
+                    "Sentence": "fused to the C -terminus of the \uf067 subunit of F oF1-ATP \nsynthase ",
+                    "Citation Text": "F. Foertsch, M. Ilchenko, T. Heitkamp, S. Nossmann, B. Hoffmann, I. Starke, R. Mrowka, C. \nBiskup, M. Borsch, Imaging cytochrome C oxidase and F0F1 -ATP synthase in mitochondrial cristae of \nliving hu man cells by FLIM and superresolution microscopy, Proc. SPIE, 10071 (2017) 100710P.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1702.00512",
+                        "Citation Paper Title": "Title:Imaging cytochrome C oxidase and FoF1-ATP synthase in mitochondrial cristae of living human cells by FLIM and superresolution microscopy",
+                        "Citation Paper Abstract": "Abstract:Cytochrome C oxidase and FoF1-ATP synthase constitute complex IV and V, respectively, of the five membrane-bound enzymes in mitochondria comprising the respiratory chain. These enzymes are located in the inner mitochondrial membrane (IMM), which exhibits large invaginations called cristae. According to recent cryo-tomography, FoF1-ATP synthases are located predominantly at the rim of the cristae, while cytochrome C oxidases are likely distributed in planar membrane areas of the cristae. Previous FLIM measurements (K. Busch and coworkers) of complex II and III unravelled differences in the local environment of the membrane enzymes in the cristae. Here, we tagged complex IV and V with mNeonGreen and investigated their mitochondrial nano-environment by FLIM and superresolution microscopy in living human cells. Different lifetimes and anisotropy values were found and will be discussed.",
+                        "Citation Paper Authors": "Authors:Franziska Foertsch, Mykhailo Ilchenko, Thomas Heitkamp, Silke Nossmann, Birgit Hoffmann, Ilka Starke, Ralf Mrowka, Christoph Biskup, Michael Borsch"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/1804.10647v1": {
+            "Paper Title": "Mathematical deep learning for pose and binding affinity prediction and\n  ranking in D3R Grand Challenges",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1804.06281v1": {
+            "Paper Title": "Deep transfer learning in the assessment of the quality of protein\n  models",
+            "Sentences": [
+                {
+                    "Sentence ID": 6,
+                    "Sentence": "Y. LeCun, Y. Bengio, and G. Hinton, Nature 521,\n436?444 (2015). ",
+                    "Citation Text": "J. Yosinski, J. Clune, Y. Bengio, and H. Lipson, in Pro-\nceedings of the 27th International Conference on Neu-\nral Information Processing Systems - Volume 2 , NIPS\u201914\n(MIT Press, Cambridge, MA, USA, 2014) pp. 3320\u20133328.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1411.1792",
+                        "Citation Paper Title": "Title:How transferable are features in deep neural networks?",
+                        "Citation Paper Abstract": "Abstract:Many deep neural networks trained on natural images exhibit a curious phenomenon in common: on the first layer they learn features similar to Gabor filters and color blobs. Such first-layer features appear not to be specific to a particular dataset or task, but general in that they are applicable to many datasets and tasks. Features must eventually transition from general to specific by the last layer of the network, but this transition has not been studied extensively. In this paper we experimentally quantify the generality versus specificity of neurons in each layer of a deep convolutional neural network and report a few surprising results. Transferability is negatively affected by two distinct issues: (1) the specialization of higher layer neurons to their original task at the expense of performance on the target task, which was expected, and (2) optimization difficulties related to splitting networks between co-adapted neurons, which was not expected. In an example network trained on ImageNet, we demonstrate that either of these two issues may dominate, depending on whether features are transferred from the bottom, middle, or top of the network. We also document that the transferability of features decreases as the distance between the base task and target task increases, but that transferring features even from distant tasks can be better than using random features. A final surprising result is that initializing a network with transferred features from almost any number of layers can produce a boost to generalization that lingers even after fine-tuning to the target dataset.",
+                        "Citation Paper Authors": "Authors:Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/1802.01553v2": {
+            "Paper Title": "Automatic microtubule tracking in fluorescence images of cells doped\n  with increasing concentrations of taxol and nocodazole",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1803.04661v1": {
+            "Paper Title": "Pharmacophore and ligand-guided screening of antibacterial leads\n  targeting antibiotic resistance factor in Gram-negative bacteria",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1803.01997v2": {
+            "Paper Title": "Mathematical modeling and analysis of the pathway network consisting of\n  symmetrical complexes with N monomers, like the activation of MMP2",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1803.07124v1": {
+            "Paper Title": "Optical transparency and electrical conductivity of single-wall carbon\n  nanotubes and of intermediate filaments of porcine M\u00fcller cells",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1802.06328v1": {
+            "Paper Title": "Minimum length RNA folding trajectories",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1801.09318v1": {
+            "Paper Title": "Towards monitoring conformational changes of the GPCR neurotensin\n  receptor 1 by single-molecule FRET",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1801.07649v1": {
+            "Paper Title": "A digital microarray using interferometric detection of plasmonic\n  nanorod labels",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1801.04692v1": {
+            "Paper Title": "Analyzing conformational changes in single FRET-labeled A1 parts of\n  archaeal A1AO-ATP synthase",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2110.01045v3": {
+            "Paper Title": "FDH knockout and TsFDH transformation lead to enhanced growth rate of\n  Escherichia coli",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2106.09553v3": {
+            "Paper Title": "Large-Scale Chemical Language Representations Capture Molecular\n  Structure and Properties",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2109.07846v2": {
+            "Paper Title": "Telehealthcare and Telepathology in Pandemic: A Noninvasive, Low-Cost\n  Micro-Invasive and Multimodal Real-Time Online Application for Early\n  Diagnosis of COVID-19 Infection",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2110.04126v4": {
+            "Paper Title": "3D Infomax improves GNNs for Molecular Property Prediction",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2106.02190v6": {
+            "Paper Title": "Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug\n  Discovery",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2110.07531v2": {
+            "Paper Title": "Deep learning models for predicting RNA degradation via dual\n  crowdsourcing",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2110.10483v2": {
+            "Paper Title": "The onset of molecule-spanning dynamics in a multi-domain protein",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2104.14064v3": {
+            "Paper Title": "Acceleration of enzymatic catalysis by active hydrodynamic fluctuations",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2110.02423v5": {
+            "Paper Title": "Geometric Transformers for Protein Interface Contact Prediction",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2112.08838v2": {
+            "Paper Title": "A dynamic intermediate state limits the folding rate of a discontinuous\n  two-domain protein",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2107.03694v4": {
+            "Paper Title": "Network and Sequence-Based Prediction of Protein-Protein Interactions",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2110.03339v2": {
+            "Paper Title": "Morphology and high frequency bio-electric fields",
+            "Sentences": [
+                {
+                    "Sentence ID": 32,
+                    "Sentence": "the emergence of a collective oscillating\nmode of dipolar molecules driven by a random energy supply was shown, and in ",
+                    "Citation Text": "Jordane Preto, Marco Pettini, and Jack A. Tuszynski, Possible role of electrodynamic\ninteractions in long-distance biomolecular recognition , Phys. Rev. E 91, 05271 (2015).\nhttps://doi.org/10.1103/PhysRevE.91.052710",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1403.2477",
+                        "Citation Paper Title": "Title:On the role of electrodynamic interactions in long-distance biomolecular recognition",
+                        "Citation Paper Abstract": "Abstract:The issue of retarded long-range resonant interactions between two molecules with oscillating dipole moments is reinvestigated within the framework of classical electrodynamics. By taking advantage of a theorem in complex analysis, we present a simple method to calculate the frequencies of the normal modes, which are then used to estimate the interaction potential. The main results thus found are in perfect agreement with several results obtained from quantum computations. Moreover, when applied in a biophysical context, our findings shed new light on Fr\u007fohlich's theory of selective long-range interactions between biomolecules. In particular, at variance with a long-standing belief, we show that sizable resonant long-range interactions may exist only if the interacting system is out of thermal equilibrium.",
+                        "Citation Paper Authors": "Authors:Jordane Preto, Marco Pettini, Jack A. Tuszynski"
+                    }
+                },
+                {
+                    "Sentence ID": 31,
+                    "Sentence": ". Fr\u007f ohlich's work still stimulates research on how living systems might make use\nof oscillatory resonances between molecules. E.g., in ",
+                    "Citation Text": "Simona Olmi, Matteo Gori, Irene Donato and Marco Pettini, Collective behavior of os-\ncillating electric dipoles , Scienti\fc Reports 8, 15748 (2018). https://doi.org/10.1038/\ns41598-018-33990-y",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1711.07547",
+                        "Citation Paper Title": "Title:Collective behavior of oscillating electric dipoles",
+                        "Citation Paper Abstract": "Abstract:The present work reports about the dynamics of a collection of randomly distributed, and randomly oriented, oscillators in 3D space, coupled by an interaction potential falling as $1/r^3$, where r stands for the inter-particle distance. This model schematically represents a collection of identical biomolecules, coherently vibrating at some common frequency, coupled with a $1/r^3$ potential stemming from the electrodynamic interaction between oscillating dipoles. The oscillating dipole moment of each molecule being a direct consequence of its coherent (collective) vibration. By changing the average distance among the molecules, neat and substantial changes in the power spectrum of the time variation of a collective observable are found. As the average intermolecular distance can be varied by changing the concentration of the solvated molecules, and as the collective variable investigated is proportional to the projection of the total dipole moment of the model biomolecules on a coordinate plane, we have found a prospective experimental strategy of spectroscopic kind to check whether the mentioned intermolecular electrodynamic interactions can be strong enough to be detectable, and thus to be of possible relevance to biology.",
+                        "Citation Paper Authors": "Authors:Simona Olmi, Matteo Gori, Irene Donato, Marco Pettini"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/2108.00024v2": {
+            "Paper Title": "FRET nanoscopy enables seamless imaging of molecular assemblies with\n  sub-nanometer resolution",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2111.14053v2": {
+            "Paper Title": "Towards Conditional Generation of Minimal Action Potential Pathways for\n  Molecular Dynamics",
+            "Sentences": [
+                {
+                    "Sentence ID": 19,
+                    "Sentence": ". Lastly, methods\nhave used HNNs with GNNs in order to train on data to enforce a potential energy bias in order to\npropel a string of beads in an MD simulation towards a desired shape (by demonstrating differentiable\ncontrol) ",
+                    "Citation Text": "Wujie Wang, Simon Axelrod, and Rafael G\u00f3mez-Bombarelli. Differentiable molecular simula-\ntions for control and learning, 2020.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:2003.00868",
+                        "Citation Paper Title": "Title:Differentiable Molecular Simulations for Control and Learning",
+                        "Citation Paper Abstract": "Abstract:Molecular dynamics simulations use statistical mechanics at the atomistic scale to enable both the elucidation of fundamental mechanisms and the engineering of matter for desired tasks. The behavior of molecular systems at the microscale is typically simulated with differential equations parameterized by a Hamiltonian, or energy function. The Hamiltonian describes the state of the system and its interactions with the environment. In order to derive predictive microscopic models, one wishes to infer a molecular Hamiltonian that agrees with observed macroscopic quantities. From the perspective of engineering, one wishes to control the Hamiltonian to achieve desired simulation outcomes and structures, as in self-assembly and optical control, to then realize systems with the desired Hamiltonian in the lab. In both cases, the goal is to modify the Hamiltonian such that emergent properties of the simulated system match a given target. We demonstrate how this can be achieved using differentiable simulations where bulk target observables and simulation outcomes can be analytically differentiated with respect to Hamiltonians, opening up new routes for parameterizing Hamiltonians to infer macroscopic models and develop control protocols.",
+                        "Citation Paper Authors": "Authors:Wujie Wang, Simon Axelrod, Rafael G\u00f3mez-Bombarelli"
+                    }
+                },
+                {
+                    "Sentence ID": 20,
+                    "Sentence": ". Symplectic-ODE Net is a different approach that uses multiple neural networks to approximate\na scalar value to which they take the symplectic gradient and use adjoint sensitivity to update the\nparameters ",
+                    "Citation Text": "Yaofeng Desmond Zhong, Biswadip Dey, and Amit Chakraborty. Symplectic ode-net: Learning\nhamiltonian dynamics with control. arXiv preprint arXiv:1909.12077 , 2019.\n6",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1909.12077",
+                        "Citation Paper Title": "Title:Symplectic ODE-Net: Learning Hamiltonian Dynamics with Control",
+                        "Citation Paper Abstract": "Abstract:In this paper, we introduce Symplectic ODE-Net (SymODEN), a deep learning framework which can infer the dynamics of a physical system, given by an ordinary differential equation (ODE), from observed state trajectories. To achieve better generalization with fewer training samples, SymODEN incorporates appropriate inductive bias by designing the associated computation graph in a physics-informed manner. In particular, we enforce Hamiltonian dynamics with control to learn the underlying dynamics in a transparent way, which can then be leveraged to draw insight about relevant physical aspects of the system, such as mass and potential energy. In addition, we propose a parametrization which can enforce this Hamiltonian formalism even when the generalized coordinate data is embedded in a high-dimensional space or we can only access velocity data instead of generalized momentum. This framework, by offering interpretable, physically-consistent models for physical systems, opens up new possibilities for synthesizing model-based control strategies.",
+                        "Citation Paper Authors": "Authors:Yaofeng Desmond Zhong, Biswadip Dey, Amit Chakraborty"
+                    }
+                },
+                {
+                    "Sentence ID": 4,
+                    "Sentence": ".\nSymplectic-RNN attempts to improve on the stability of HNNs by introducing recurrent training ",
+                    "Citation Text": "Zhengdao Chen, Jianyu Zhang, Martin Arjovsky, and L\u00e9on Bottou. Symplectic recurrent neural\nnetworks. arXiv preprint arXiv:1909.13334 , 2019.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1909.13334",
+                        "Citation Paper Title": "Title:Symplectic Recurrent Neural Networks",
+                        "Citation Paper Abstract": "Abstract:We propose Symplectic Recurrent Neural Networks (SRNNs) as learning algorithms that capture the dynamics of physical systems from observed trajectories. An SRNN models the Hamiltonian function of the system by a neural network and furthermore leverages symplectic integration, multiple-step training and initial state optimization to address the challenging numerical issues associated with Hamiltonian systems. We show that SRNNs succeed reliably on complex and noisy Hamiltonian systems. We also show how to augment the SRNN integration scheme in order to handle stiff dynamical systems such as bouncing billiards.",
+                        "Citation Paper Authors": "Authors:Zhengdao Chen, Jianyu Zhang, Martin Arjovsky, L\u00e9on Bottou"
+                    }
+                },
+                {
+                    "Sentence ID": 7,
+                    "Sentence": ". Hamiltonian Neural Networks (HNNs) predict a scalar value and take the\nsymplectic gradient in order to approximate a differential equation that conserves total energy ",
+                    "Citation Text": "Sam Greydanus, Misko Dzamba, and Jason Yosinski. Hamiltonian neural networks. CoRR ,\nabs/1906.01563, 2019.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1906.01563",
+                        "Citation Paper Title": "Title:Hamiltonian Neural Networks",
+                        "Citation Paper Abstract": "Abstract:Even though neural networks enjoy widespread use, they still struggle to learn the basic laws of physics. How might we endow them with better inductive biases? In this paper, we draw inspiration from Hamiltonian mechanics to train models that learn and respect exact conservation laws in an unsupervised manner. We evaluate our models on problems where conservation of energy is important, including the two-body problem and pixel observations of a pendulum. Our model trains faster and generalizes better than a regular neural network. An interesting side effect is that our model is perfectly reversible in time.",
+                        "Citation Paper Authors": "Authors:Sam Greydanus, Misko Dzamba, Jason Yosinski"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/2109.09173v4": {
+            "Paper Title": "Unravelling looping efficiency of stochastic Cosserat polymers",
+            "Sentences": [
+                {
+                    "Sentence ID": 66,
+                    "Sentence": "A. J. McKane and M. B. Tarlie. Regularization of func-\ntional determinants using boundary perturbations. J.\nPhys. A: Mathematical and General , 28(23):6931\u20136942,\ndec 1995. ",
+                    "Citation Text": "G. M. Falco, A. A. Fedorenko, and I. A. Gruzberg. On\nfunctional determinants of matrix di\ufb00erential operators\nwith multiple zero modes. J. Phys. A Math. Theor. ,\n50(48):485201, nov 2017.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1703.07329",
+                        "Citation Paper Title": "Title:On functional determinants of matrix differential operators with multiple zero modes",
+                        "Citation Paper Abstract": "Abstract:We generalize the method of computing functional determinants with a single excluded zero eigenvalue developed by McKane and Tarlie to differential operators with multiple zero eigenvalues. We derive general formulas for such functional determinants of $r\\times r$ matrix second order differential operators $O$ with $0 < n \\leqslant 2r$ linearly independent zero modes. We separately discuss the cases of the homogeneous Dirichlet boundary conditions, when the number of zero modes cannot exceed $r$, and the case of twisted boundary conditions, including the periodic and anti-periodic ones, when the number of zero modes is bounded above by $2r$. In all cases the determinants with excluded zero eigenvalues can be expressed only in terms of the $n$ zero modes and other $r-n$ or $2r-n$ (depending on the boundary conditions) solutions of the homogeneous equation $O h=0$, in the spirit of Gel'fand-Yaglom approach. In instanton calculations, the contribution of the zero modes is taken into account by introducing the so-called collective coordinates. We show that there is a remarkable cancellation of a factor (involving scalar products of zero modes) between the Jacobian of the transformation to the collective coordinates and the functional fluctuation determinant with excluded zero eigenvalues. This cancellation drastically simplifies instanton calculations when one uses our formulas.",
+                        "Citation Paper Authors": "Authors:G.M. Falco, Andrei A. Fedorenko, Ilya A. Gruzberg"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/2112.04814v1": {
+            "Paper Title": "Multimodal Pre-Training Model for Sequence-based Prediction of\n  Protein-Protein Interaction",
+            "Sentences": [
+                {
+                    "Sentence ID": 28,
+                    "Sentence": "etc. Speci\ufb01cally,\n2Multimodal Pre-Training Model for Sequence-based Prediction of Protein-Protein Interaction\nthe embedding model of MuPIPR inspired by ELMo ",
+                    "Citation Text": "Matthew E Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, and Luke\nZettlemoyer. Deep contextualized word representations. In Proceedings of NAACL-HLT , pages 2227\u20132237, 2018.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1802.05365",
+                        "Citation Paper Title": "Title:Deep contextualized word representations",
+                        "Citation Paper Abstract": "Abstract:We introduce a new type of deep contextualized word representation that models both (1) complex characteristics of word use (e.g., syntax and semantics), and (2) how these uses vary across linguistic contexts (i.e., to model polysemy). Our word vectors are learned functions of the internal states of a deep bidirectional language model (biLM), which is pre-trained on a large text corpus. We show that these representations can be easily added to existing models and significantly improve the state of the art across six challenging NLP problems, including question answering, textual entailment and sentiment analysis. We also present an analysis showing that exposing the deep internals of the pre-trained network is crucial, allowing downstream models to mix different types of semi-supervision signals.",
+                        "Citation Paper Authors": "Authors:Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/2108.07435v2": {
+            "Paper Title": "Modeling Protein Using Large-scale Pretrain Language Model",
+            "Sentences": [
+                {
+                    "Sentence ID": 8,
+                    "Sentence": ".\n2.2 Large-scale Pretraining\nThe success of pretraining makes researchers wonder\nwhether the in language model scale can always bring\nabout improved performance. ProtTrans ",
+                    "Citation Text": "Ahmed Elnaggar, Michael Heinzinger, Christian Dallago,\nGhalia Rihawi, Yu Wang, Llion Jones, Tom Gibbs, Tamas Feher,\nChristoph Angerer, Martin Steinegger, Debsindhu Bhowmik,\nand Burkhard Rost. Prottrans: Towards cracking the language\nof life\u2019s code through self-supervised deep learning and high\nperformance computing. CoRR , abs/2007.06225, 2020.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:2007.06225",
+                        "Citation Paper Title": "Title:ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing",
+                        "Citation Paper Abstract": "Abstract:Computational biology and bioinformatics provide vast data gold-mines from protein sequences, ideal for Language Models taken from NLP. These LMs reach for new prediction frontiers at low inference costs. Here, we trained two auto-regressive models (Transformer-XL, XLNet) and four auto-encoder models (BERT, Albert, Electra, T5) on data from UniRef and BFD containing up to 393 billion amino acids. The LMs were trained on the Summit supercomputer using 5616 GPUs and TPU Pod up-to 1024 cores. Dimensionality reduction revealed that the raw protein LM-embeddings from unlabeled data captured some biophysical features of protein sequences. We validated the advantage of using the embeddings as exclusive input for several subsequent tasks. The first was a per-residue prediction of protein secondary structure (3-state accuracy Q3=81%-87%); the second were per-protein predictions of protein sub-cellular localization (ten-state accuracy: Q10=81%) and membrane vs. water-soluble (2-state accuracy Q2=91%). For the per-residue predictions the transfer of the most informative embeddings (ProtT5) for the first time outperformed the state-of-the-art without using evolutionary information thereby bypassing expensive database searches. Taken together, the results implied that protein LMs learned some of the grammar of the language of life. To facilitate future work, we released our models at this https URL.",
+                        "Citation Paper Authors": "Authors:Ahmed Elnaggar, Michael Heinzinger, Christian Dallago, Ghalia Rihawi, Yu Wang, Llion Jones, Tom Gibbs, Tamas Feher, Christoph Angerer, Martin Steinegger, Debsindhu Bhowmik, Burkhard Rost"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/2112.03466v1": {
+            "Paper Title": "DEIMoS: an open-source tool for processing high-dimensional mass\n  spectrometry data",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2112.00344v1": {
+            "Paper Title": "Leveraging Sequence Embedding and Convolutional Neural Network for\n  Protein Function Prediction",
+            "Sentences": [
+                {
+                    "Sentence ID": 10,
+                    "Sentence": ". The dimension of the language\nmodel in ELMo is 256. After training with 10 epochs, we freeze the weights in the language model\nin ELMo.\nFor Skip-Gram word embedding ",
+                    "Citation Text": "Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg S Corrado, and Jeff Dean. Distributed representations of\nwords and phrases and their compositionality. In C. J. C. Burges, L. Bottou, M. Welling, Z. Ghahramani,\nand K. Q. Weinberger, editors, Advances in Neural Information Processing Systems 26 , pages 3111\u20133119.\nCurran Associates, Inc., 2013.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1310.4546",
+                        "Citation Paper Title": "Title:Distributed Representations of Words and Phrases and their Compositionality",
+                        "Citation Paper Abstract": "Abstract:The recently introduced continuous Skip-gram model is an efficient method for learning high-quality distributed vector representations that capture a large number of precise syntactic and semantic word relationships. In this paper we present several extensions that improve both the quality of the vectors and the training speed. By subsampling of the frequent words we obtain significant speedup and also learn more regular word representations. We also describe a simple alternative to the hierarchical softmax called negative sampling. An inherent limitation of word representations is their indifference to word order and their inability to represent idiomatic phrases. For example, the meanings of \"Canada\" and \"Air\" cannot be easily combined to obtain \"Air Canada\". Motivated by this example, we present a simple method for finding phrases in text, and show that learning good vector representations for millions of phrases is possible.",
+                        "Citation Paper Authors": "Authors:Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/2107.12243v2": {
+            "Paper Title": "Protein-RNA interaction prediction with deep learning: Structure matters",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2111.06340v2": {
+            "Paper Title": "ParaFold: Paralleling AlphaFold for Large-Scale Predictions",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2111.06801v1": {
+            "Paper Title": "Benchmarking deep generative models for diverse antibody sequence design",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2111.03141v1": {
+            "Paper Title": "A Validated Method for Predicting Small Molecule Ionization Sites using\n  Gibb's Free Energies",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2110.12723v1": {
+            "Paper Title": "Rapid and Accurate Detection of SARS-CoV-2 Mutations using a\n  Cas12a-based Sensing Platform",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2110.06755v1": {
+            "Paper Title": "Quantum Optical Immunoassay: Upconversion Nanoparticle-based\n  Neutralizing Assay for COVID-19",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2106.04362v3": {
+            "Paper Title": "DIPS-Plus: The Enhanced Database of Interacting Protein Structures for\n  Interface Prediction",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2109.07925v3": {
+            "Paper Title": "PDBench: Evaluating Computational Methods for Protein Sequence Design",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2109.04460v2": {
+            "Paper Title": "Protein Folding Neural Networks Are Not Robust",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2109.08148v1": {
+            "Paper Title": "Review of the mechanisms of SARS-CoV-2 evolution and transmission",
+            "Sentences": [
+                {
+                    "Sentence ID": 35,
+                    "Sentence": ". Currently, we have a library of collections of 130 antibody-RBD complex\nstructures ",
+                    "Citation Text": "R. Wang, J. Chen, and G.-W. Wei. Emerging vaccine-breakthrough sars-cov-2 variants.\narXiv:2109.04509 , 2021.\n14",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:2109.04509",
+                        "Citation Paper Title": "Title:Emerging vaccine-breakthrough SARS-CoV-2 variants",
+                        "Citation Paper Abstract": "Abstract:The recent global surge in COVID-19 infections has been fueled by new SARS-CoV-2 variants, namely Alpha, Beta, Gamma, Delta, etc. The molecular mechanism underlying such surge is elusive due to 4,653 non-degenerate mutations on the spike protein, which is the target of most COVID-19 vaccines. The understanding of the molecular mechanism of transmission and evolution is a prerequisite to foresee the trend of emerging vaccine-breakthrough variants and the design of mutation-proof vaccines and monoclonal antibodies. We integrate the genotyping of 1,489,884 SARS-CoV-2 genomes isolates, 130 human antibodies, tens of thousands of mutational data points, topological data analysis, and deep learning to reveal SARS-CoV-2 evolution mechanism and forecast emerging vaccine-escape variants. We show that infectivity-strengthening and antibody-disruptive co-mutations on the S protein RBD can quantitatively explain the infectivity and virulence of all prevailing variants. We demonstrate that Lambda is as infectious as Delta but is more vaccine-resistant. We analyze emerging vaccine-breakthrough co-mutations in 20 countries, including the United Kingdom, the United States, Denmark, Brazil, and Germany, etc. We envision that natural selection through infectivity will continue to be the main mechanism for viral evolution among unvaccinated populations, while antibody disruptive co-mutations will fuel the future growth of vaccine-breakthrough variants among fully vaccinated populations. Finally, we have identified the co-mutations that have the great likelihood of becoming dominant: [A411S, L452R, T478K], [L452R, T478K, N501Y], [V401L, L452R, T478K], [K417N, L452R, T478K], [L452R, T478K, E484K, N501Y], and [P384L, K417N, E484K, N501Y]. We predict they, particularly the last four, will break through existing vaccines. We foresee an urgent need to develop new vaccines that target these co-mutations.",
+                        "Citation Paper Authors": "Authors:Rui Wang, Jiahui Chen, Yuta Hozumi, Changchuan Yin, Guo-Wei Wei"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/2109.03236v1": {
+            "Paper Title": "Graph-Theoretic Partitioning of RNAs and Classification of\n  Pseudoknots-II",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2108.13387v1": {
+            "Paper Title": "Ovarian Cancer Prediction from Ovarian Cysts Based on TVUS Using Machine\n  Learning Algorithms",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2102.09548v2": {
+            "Paper Title": "Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug\n  Discovery and Development",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2109.06700v1": {
+            "Paper Title": "Neural Upscaling from Residue-level Protein Structure Networks to\n  Atomistic Structure",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2107.02381v3": {
+            "Paper Title": "An Inverse QSAR Method Based on Linear Regression and Integer\n  Programming",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2108.07660v1": {
+            "Paper Title": "New views of old proteins: clarifying the enigmatic proteome",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2108.02706v1": {
+            "Paper Title": "Structure determination",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2108.05848v1": {
+            "Paper Title": "Eliminating unwanted patterns with minimal interference",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2106.00757v2": {
+            "Paper Title": "Neural message passing for joint paratope-epitope prediction",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2107.08855v1": {
+            "Paper Title": "Better force fields start with better data -- A data set of cation\n  dipeptide interactions",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2107.06407v1": {
+            "Paper Title": "Watching Single Unmodified Enzymes at Work",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2103.10164v3": {
+            "Paper Title": "PySTACHIO: Python Single-molecule TrAcking stoiCHiometry Intensity and\n  simulatiOn, a flexible, extensible, beginner-friendly and optimized program\n  for analysis of single-molecule microscopy",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2107.01331v1": {
+            "Paper Title": "Exploring generative atomic models in cryo-EM reconstruction",
+            "Sentences": [
+                {
+                    "Sentence ID": 34,
+                    "Sentence": ".\nIn concurrent work, Rosenbaum et al. propose a V AE with a similar RBF-based generative model\nover atomic coordinates ",
+                    "Citation Text": "Dan Rosenbaum, Marta Garnelo, Michal Zielinski, Charlie Beattie, Ellen Clancy, Andrea\nHuber, Pushmeet Kohli, Andrew W. Senior, John Jumper, Carl Doersch, S. M. Ali Eslami, Olaf\nRonneberger, and Jonas Adler. Inferring a continuous distribution of atom coordinates from\ncryo-em images using vaes, 2021.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:2106.14108",
+                        "Citation Paper Title": "Title:Inferring a Continuous Distribution of Atom Coordinates from Cryo-EM Images using VAEs",
+                        "Citation Paper Abstract": "Abstract:Cryo-electron microscopy (cryo-EM) has revolutionized experimental protein structure determination. Despite advances in high resolution reconstruction, a majority of cryo-EM experiments provide either a single state of the studied macromolecule, or a relatively small number of its conformations. This reduces the effectiveness of the technique for proteins with flexible regions, which are known to play a key role in protein function. Recent methods for capturing conformational heterogeneity in cryo-EM data model it in volume space, making recovery of continuous atomic structures challenging. Here we present a fully deep-learning-based approach using variational auto-encoders (VAEs) to recover a continuous distribution of atomic protein structures and poses directly from picked particle images and demonstrate its efficacy on realistic simulated data. We hope that methods built on this work will allow incorporation of stronger prior information about protein structure and enable better understanding of non-rigid protein structures.",
+                        "Citation Paper Authors": "Authors:Dan Rosenbaum, Marta Garnelo, Michal Zielinski, Charlie Beattie, Ellen Clancy, Andrea Huber, Pushmeet Kohli, Andrew W. Senior, John Jumper, Carl Doersch, S. M. Ali Eslami, Olaf Ronneberger, Jonas Adler"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/2106.14192v1": {
+            "Paper Title": "Disentangling semantic features of macromolecules in Cryo-Electron\n  Tomography",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2103.11986v3": {
+            "Paper Title": "Fast ATP-dependent Subunit Rotation in Reconstituted FoF1-ATP Synthase\n  Trapped in Solution",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2106.13058v1": {
+            "Paper Title": "Fold2Seq: A Joint Sequence(1D)-Fold(3D) Embedding-based Generative Model\n  for Protein Design",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2104.03279v3": {
+            "Paper Title": "Modern Hopfield Networks for Few- and Zero-Shot Reaction Template\n  Prediction",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2105.03902v3": {
+            "Paper Title": "Learning Gradient Fields for Molecular Conformation Generation",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2105.07246v2": {
+            "Paper Title": "An End-to-End Framework for Molecular Conformation Generation via\n  Bilevel Programming",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2105.13582v1": {
+            "Paper Title": "Cysteine post-translational modifications: ten years from chemical\n  proteomics to bioinformatics",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2105.13226v1": {
+            "Paper Title": "Protein folding simulations in the hydrophobic-polar model using a\n  hybrid cuckoo search algorithm",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2105.07833v1": {
+            "Paper Title": "Rapid micro-immunohistochemistry",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2105.03617v1": {
+            "Paper Title": "MEGADOCK-GUI: a GUI-based complete cross-docking tool for exploring\n  protein-protein interactions",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2105.10489v1": {
+            "Paper Title": "Evening the Score: Targeting SARS-CoV-2 Protease Inhibition in Graph\n  Generative Models for Therapeutic Candidates",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2105.00445v1": {
+            "Paper Title": "MEGADOCK-Web-Mito: human mitochondrial protein-protein interaction\n  prediction database",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2101.07135v2": {
+            "Paper Title": "Microfluidic production of porous polymer cell-mimics capable of gene\n  expression",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2104.14661v1": {
+            "Paper Title": "Random Embeddings and Linear Regression can Predict Protein Function",
+            "Sentences": [
+                {
+                    "Sentence ID": 21,
+                    "Sentence": ", a collection of tasks for\nevaluating Natural Language Processing (NLP) mod-\nels ",
+                    "Citation Text": "A. Wang, J. Hula, P. Xia, R. Pappagari, R. T. McCoy, R. Patel, N. Kim, I. Tenney, Y . Huang, K. Yu, et al. Can\nyou tell me how to get past sesame street? sentence-level pretraining beyond language modeling. arXiv preprint\narXiv:1812.10860 , 2018.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1812.10860",
+                        "Citation Paper Title": "Title:Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling",
+                        "Citation Paper Abstract": "Abstract:Natural language understanding has recently seen a surge of progress with the use of sentence encoders like ELMo (Peters et al., 2018a) and BERT (Devlin et al., 2019) which are pretrained on variants of language modeling. We conduct the first large-scale systematic study of candidate pretraining tasks, comparing 19 different tasks both as alternatives and complements to language modeling. Our primary results support the use language modeling, especially when combined with pretraining on additional labeled-data tasks. However, our results are mixed across pretraining tasks and show some concerning trends: In ELMo's pretrain-then-freeze paradigm, random baselines are worryingly strong and results vary strikingly across target tasks. In addition, fine-tuning BERT on an intermediate task often negatively impacts downstream transfer. In a more positive trend, we see modest gains from multitask training, suggesting the development of more sophisticated multitask and transfer learning techniques as an avenue for further research.",
+                        "Citation Paper Authors": "Authors:Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, Samuel R. Bowman"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/2104.11624v1": {
+            "Paper Title": "Towards rational glyco-engineering in CHO: from data to predictive\n  models",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2104.05188v1": {
+            "Paper Title": "Accelerating science with human versus alien artificial intelligences",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2104.02825v1": {
+            "Paper Title": "Fluorescence-Enhanced Mid-Infrared Photothermal Microscopy",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2104.01469v1": {
+            "Paper Title": "Modeling ADHD in Drosophila: Investigating the Effects of Glucose on\n  Dopamine Production Demonstrated by Locomotion",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2103.10432v1": {
+            "Paper Title": "MARS: Markov Molecular Sampling for Multi-objective Drug Discovery",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2102.06086v1": {
+            "Paper Title": "ParaVS: A Simple, Fast, Efficient and Flexible Graph Neural Network\n  Framework for Structure-Based Virtual Screening",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2102.03881v1": {
+            "Paper Title": "Mimetic Neural Networks: A unified framework for Protein Design and\n  Folding",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2102.00971v1": {
+            "Paper Title": "Methodology-centered review of molecular modeling, simulation, and\n  prediction of SARS-CoV-2",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2102.00925v1": {
+            "Paper Title": "Neural representation and generation for RNA secondary structures",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2101.10645v1": {
+            "Paper Title": "essHi-C: Essential component analysis of Hi-C matrices",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/2101.04448v1": {
+            "Paper Title": "Super-Earths, M Dwarfs, and Photosynthetic Organisms: Habitability in\n  the Lab",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1710.01236v6": {
+            "Paper Title": "netgwas: An R Package for Network-Based Genome-Wide Association Studies",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1710.00495v2": {
+            "Paper Title": "REinforcement learning based Adaptive samPling: REAPing Rewards by\n  Exploring Protein Conformational Landscapes",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1712.09679v1": {
+            "Paper Title": "Enumerating consistent subgraphs of directed acyclic graphs: an insight\n  into biomedical ontologies",
+            "Sentences": [
+                {
+                    "Sentence ID": 13,
+                    "Sentence": ". The resulting count re\rects the size of the structure space of Bayesian\nnetworks with nrandom variables and, surprisingly, also corresponds to the number of\nmatrices inf0;1gn\u0002nwith all eigenvalues real and positive ",
+                    "Citation Text": "B. D. McKay, F. E. Oggier, et al. Acyclic digraphs and eigenvalues of (0,1)-matrices. J\nInteger Seq , 7:04.3.3, 2004.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:math/0310423",
+                        "Citation Paper Title": "Title:Acyclic Digraphs and Eigenvalues of (0,1)-Matrices",
+                        "Citation Paper Abstract": "Abstract:  We show that the number of acyclic directed graphs with n labeled vertices is equal to the number of n X n (0,1)-matrices whose eigenvalues are positive real numbers.",
+                        "Citation Paper Authors": "Authors:Brendan D. McKay, Frederique E. Oggier, Gordon F. Royle, N. J. A. Sloane, Ian M. Wanless, Herbert S. Wilf"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/1712.09254v1": {
+            "Paper Title": "The determinant factors for model resolutions obtained using CryoEM\n  method",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1712.07704v1": {
+            "Paper Title": "Unsupervised learning of dynamical and molecular similarity using\n  variance minimization",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1712.07244v1": {
+            "Paper Title": "Real-value and confidence prediction of protein backbone dihedral angles\n  through a hybrid method of clustering and deep learning",
+            "Sentences": [
+                {
+                    "Sentence ID": 40,
+                    "Sentence": ". Howeve r,with the\ndepth increasing, accuracy gets saturated and even degraded. That is because\nadding more layers may lead to higher training error as identity mappin g is\ndi\ufb03cult to \ufb01t with a stack of nonlinear layers ",
+                    "Citation Text": "Rupesh K Srivastava, Klaus Gre\ufb00, and J\u00a8 urgen Schmidhuber. T raining very\ndeepnetworks. In Advances in neural information processing systems ,pages\n2377\u20132385, 2015.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1507.06228",
+                        "Citation Paper Title": "Title:Training Very Deep Networks",
+                        "Citation Paper Abstract": "Abstract:Theoretical and empirical evidence indicates that the depth of neural networks is crucial for their success. However, training becomes more difficult as depth increases, and training of very deep networks remains an open problem. Here we introduce a new architecture designed to overcome this. Our so-called highway networks allow unimpeded information flow across many layers on information highways. They are inspired by Long Short-Term Memory recurrent networks and use adaptive gating units to regulate the information flow. Even with hundreds of layers, highway networks can be trained directly through simple gradient descent. This enables the study of extremely deep and efficient architectures.",
+                        "Citation Paper Authors": "Authors:Rupesh Kumar Srivastava, Klaus Greff, J\u00fcrgen Schmidhuber"
+                    }
+                },
+                {
+                    "Sentence ID": 33,
+                    "Sentence": "and also the success of residual framew ork to do con-\ntact prediction ",
+                    "Citation Text": "Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, and Jinbo Xu. Accu rate\nde novo prediction of protein contact map by ultra-deep learning mo del.\nPLOS Computational Biology , 13(1):e1005324, 2017.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1609.00680",
+                        "Citation Paper Title": "Title:Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model",
+                        "Citation Paper Abstract": "Abstract:Recently exciting progress has been made on protein contact prediction, but the predicted contacts for proteins without many sequence homologs is still of low quality and not very useful for de novo structure prediction. This paper presents a new deep learning method that predicts contacts by integrating both evolutionary coupling (EC) and sequence conservation information through an ultra-deep neural network formed by two deep residual networks. This deep neural network allows us to model very complex sequence-contact relationship as well as long-range inter-contact correlation. Our method greatly outperforms existing contact prediction methods and leads to much more accurate contact-assisted protein folding. Tested on three datasets of 579 proteins, the average top L long-range prediction accuracy obtained our method, the representative EC method CCMpred and the CASP11 winner MetaPSICOV is 0.47, 0.21 and 0.30, respectively; the average top L/10 long-range accuracy of our method, CCMpred and MetaPSICOV is 0.77, 0.47 and 0.59, respectively. Ab initio folding using our predicted contacts as restraints can yield correct folds (i.e., TMscore>0.6) for 203 test proteins, while that using MetaPSICOV- and CCMpred-predicted contacts can do so for only 79 and 62 proteins, respectively. Further, our contact-assisted models have much better quality than template-based models. Using our predicted contacts as restraints, we can (ab initio) fold 208 of the 398 membrane proteins with TMscore>0.5. By contrast, when the training proteins of our method are used as templates, homology modeling can only do so for 10 of them. One interesting finding is that even if we do not train our prediction models with any membrane proteins, our method works very well on membrane protein prediction. Finally, in recent blind CAMEO benchmark our method successfully folded 5 test proteins with a novel fold.",
+                        "Citation Paper Authors": "Authors:Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/1711.07547v1": {
+            "Paper Title": "Collective behavior of oscillating electric dipoles",
+            "Sentences": [
+                {
+                    "Sentence ID": 20,
+                    "Sentence": "Gard, T. C. Introduction to Stochastic Di\ufb00erential Equations , (Marcel Dekker, vol 114 of\nMonographs and Textbooks in Pure and Applied Mathematics 19 87). ",
+                    "Citation Text": "San Miguel, M. & Toral, R. Stochastic e\ufb00ects in physical s ystems.Instabilities and nonequi-\nlibrium structures VI 5, 35 (2000).",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:cond-mat/9707147",
+                        "Citation Paper Title": "Title:Stochastic Effects in Physical Systems",
+                        "Citation Paper Abstract": "Abstract:  A tutorial review is given of some developments and applications of stochastic processes from the point of view of the practicioner physicist. The index is the following: 1.- Introduction 2.- Stochastic Processes 3.- Transient Stochastic Dynamics 4.- Noise in Dynamical Systems 5.- Noise Effects in Spatially Extended Systems 6.- Fluctuations, Phase Transitions and Noise-Induced Transitions.",
+                        "Citation Paper Authors": "Authors:Maxi San Miguel, Raul Toral (Instituto Mediterraneo de Estudios Avanzados, IMEDEA, CSIC-UIB, Palma de Mallorca, Spain)"
+                    }
+                },
+                {
+                    "Sentence ID": 6,
+                    "Sentence": "Preto, J., Pettini, M. & Tuszynski, J. Possible role of el ectrodynamic interactions in long-\ndistance biomolecular recognition. Physical Review E 91, 052710 (2015).\n20 ",
+                    "Citation Text": "Preto, J., Floriani, E., Nardecchia, I., Ferrier, E., & P ettini, M. Experimental assessment of\nthe contribution of electrodynamic interactions to long-d istance recruitment of biomolecular\npartners: Theoretical basis. Physical Review E 85, 041904 (2012).",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1201.2607",
+                        "Citation Paper Title": "Title:Experimental assessment of the contribution of electrodynamic interactions to long-distance recruitment of biomolecular partners: Theoretical basis",
+                        "Citation Paper Abstract": "Abstract:Highly specific spatiotemporal interactions between cognate molecular partners essentially sustain all biochemical transactions in the living matter. That such an exquisite level of accuracy may result from encountering forces solely driven by thermal diffusive processes is unlikely. Here we propose a yet unexplored strategy to experimentally tackle the long-standing question of a possibly active recruitment at a distance of cognate partners of biomolecular reactions via the action of resonant electrodynamic interactions. We considered two simplified models for a preliminary feasibility investigation of the devised methodology. By taking advantage of advanced experimental techniques nowadays available, we propose to measure the characteristic encounter time scales of dually-interacting biopartners and to compare them with theoretical predictions worked out both in the presence or absence of putative long-range electromagnetic forces.",
+                        "Citation Paper Authors": "Authors:Jordane Preto, Elena Floriani, Ilaria Nardecchia, Pierre Ferrier, Marco Pettini"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/1711.06865v1": {
+            "Paper Title": "Decoupled molecules with binding polynomials of bidegree (n,2)",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1710.07400v1": {
+            "Paper Title": "Ligand Pose Optimization with Atomic Grid-Based Convolutional Neural\n  Networks",
+            "Sentences": [
+                {
+                    "Sentence ID": 47,
+                    "Sentence": ". Furthermore, this method allows\nthe creation of adversarial examples\u2013images that lie only slightly outside the training data distribution\nbut nevertheless are incorrectly classi\ufb01ed ",
+                    "Citation Text": "I. J. Goodfellow, J. Shlens, and C. Szegedy, \u201cExplaining and harnessing adversarial examples,\u201d arXiv\npreprint arXiv:1412.6572 , 2015.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1412.6572",
+                        "Citation Paper Title": "Title:Explaining and Harnessing Adversarial Examples",
+                        "Citation Paper Abstract": "Abstract:Several machine learning models, including neural networks, consistently misclassify adversarial examples---inputs formed by applying small but intentionally worst-case perturbations to examples from the dataset, such that the perturbed input results in the model outputting an incorrect answer with high confidence. Early attempts at explaining this phenomenon focused on nonlinearity and overfitting. We argue instead that the primary cause of neural networks' vulnerability to adversarial perturbation is their linear nature. This explanation is supported by new quantitative results while giving the first explanation of the most intriguing fact about them: their generalization across architectures and training sets. Moreover, this view yields a simple and fast method of generating adversarial examples. Using this approach to provide examples for adversarial training, we reduce the test set error of a maxout network on the MNIST dataset.",
+                        "Citation Paper Authors": "Authors:Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/1710.01344v1": {
+            "Paper Title": "Development of models for predicting Torsade de Pointes cardiac\n  arrhythmias using perceptron neural networks",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1708.08298v1": {
+            "Paper Title": "Isotachophoresis applied to chemical reactions",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1707.08529v1": {
+            "Paper Title": "The Detection and Localization of Frost Protein in Drosophila",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1707.03962v1": {
+            "Paper Title": "Prediction and Power in Molecular Sensors: Uncertainty and Dissipation\n  When Conditionally Markovian Channels Are Driven by Semi-Markov Environments",
+            "Sentences": [
+                {
+                    "Sentence ID": 41,
+                    "Sentence": "G. Tka\u0014 cik, A. M. Walczak, and W. Bialek. Optimizing\ninformation \row in small genetic networks. Phys. Rev.\nE, 80(3):031920, 2009. ",
+                    "Citation Text": "A. M. Walczak, G. Tka\u0014 cik, and W. Bialek. Optimizing in-\nformation \row in small genetic networks. II. Feed-forward\ninteractions. Phys. Rev. E , 81(4):041905, 2010.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:0912.5500",
+                        "Citation Paper Title": "Title:Optimizing information flow in small genetic networks. II: Feed forward interactions",
+                        "Citation Paper Abstract": "Abstract:  Central to the functioning of a living cell is its ability to control the readout or expression of information encoded in the genome. In many cases, a single transcription factor protein activates or represses the expression of many genes. As the concentration of the transcription factor varies, the target genes thus undergo correlated changes, and this redundancy limits the ability of the cell to transmit information about input signals. We explore how interactions among the target genes can reduce this redundancy and optimize information transmission. Our discussion builds on recent work [Tkacik et al, Phys Rev E 80, 031920 (2009)], and there are connections to much earlier work on the role of lateral inhibition in enhancing the efficiency of information transmission in neural circuits; for simplicity we consider here the case where the interactions have a feed forward structure, with no loops. Even with this limitation, the networks that optimize information transmission have a structure reminiscent of the networks found in real biological systems.",
+                        "Citation Paper Authors": "Authors:Aleksandra M. Walczak, Gapser Tkacik, William Bialek"
+                    }
+                },
+                {
+                    "Sentence ID": 27,
+                    "Sentence": "used\nthe ratio of nonpredictive information rate to entropy\nproduction to characterize learning, but nonpredictive\ninformation rate is not a typical metric for predictive\npower in machine learning or related literature. Finally,\nRef. ",
+                    "Citation Text": "N. B. Becker, A. Mugler, and P. R. ten Wolde. Optimal\nprediction by cellular signaling networks. Phys. Rev. lett. ,\n115(25):258103, 2015.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1512.02124",
+                        "Citation Paper Title": "Title:Optimal Prediction by Cellular Signaling Networks",
+                        "Citation Paper Abstract": "Abstract:Living cells can enhance their fitness by anticipating environmental change. We study how accurately linear signaling networks in cells can predict future signals. We find that maximal predictive power results from a combination of input-noise suppression, linear extrapolation, and selective readout of correlated past signal values. Single-layer networks generate exponential response kernels, which suffice to predict Markovian signals optimally. Multilayer networks allow oscillatory kernels that can optimally predict non-Markovian signals. At low noise, these kernels exploit the signal derivative for extrapolation, while at high noise, they capitalize on signal values in the past that are strongly correlated with the future signal. We show how the common motifs of negative feedback and incoherent feed-forward can implement these optimal response functions. Simulations reveal that E. coli can reliably predict concentration changes for chemotaxis, and that the integration time of its response kernel arises from a trade-off between rapid response and noise suppression.",
+                        "Citation Paper Authors": "Authors:Nils B. Becker, Andrew Mugler, Pieter Rein ten Wolde"
+                    }
+                },
+                {
+                    "Sentence ID": 19,
+                    "Sentence": "R. P. N. Rao and D. H. Ballard. Predictive coding in the\nvisual cortex: a functional interpretation of some extra-\nclassical receptive-\feld e\u000bects. Nat. Neurosci. , 2(1):79{\n87, 1999. ",
+                    "Citation Text": "S. E. Palmer, O. Marre, M. J. Berry, and W. Bialek.\nPredictive information in a sensory population. Proc.\nNatl. Acad. Sci. USA , 112(22):6908{6913, 2015.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1307.0225",
+                        "Citation Paper Title": "Title:Predictive information in a sensory population",
+                        "Citation Paper Abstract": "Abstract:Guiding behavior requires the brain to make predictions about future sensory inputs. Here we show that efficient predictive computation starts at the earliest stages of the visual system. We estimate how much information groups of retinal ganglion cells carry about the future state of their visual inputs, and show that every cell we can observe participates in a group of cells for which this predictive information is close to the physical limit set by the statistical structure of the inputs themselves. Groups of cells in the retina also carry information about the future state of their own activity, and we show that this information can be compressed further and encoded by downstream predictor neurons, which then exhibit interesting feature selectivity. Efficient representation of predictive information is a candidate principle that can be applied at each stage of neural computation.",
+                        "Citation Paper Authors": "Authors:Stephanie E. Palmer, Olivier Marre, Michael J. Berry II, William Bialek"
+                    }
+                },
+                {
+                    "Sentence ID": 16,
+                    "Sentence": "S. Goldt and U. Seifert. Stochastic thermodynamics of\nlearning. Phys. Rev. Lett. , 118(1):010601, 2017. ",
+                    "Citation Text": "A. B. Boyd, D. Mandal, P. M. Riechers, and J. P.\nCrutch\feld. Transient dissipation and structural costs\nof physical information transduction. Phys. Rev. Lett. ,\n118:220602, 2017.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1612.08616",
+                        "Citation Paper Title": "Title:Transient Dissipation and Structural Costs of Physical Information Transduction",
+                        "Citation Paper Abstract": "Abstract:A central result that arose in applying information theory to the stochastic thermodynamics of nonlinear dynamical systems is the Information-Processing Second Law (IPSL): the physical entropy of the universe can decrease if compensated by the Shannon-Kolmogorov-Sinai entropy change of appropriate information-carrying degrees of freedom. In particular, the asymptotic-rate IPSL precisely delineates the thermodynamic functioning of autonomous Maxwellian demons and information engines. How do these systems begin to function as engines, Landauer erasers, and error correctors? Here, we identify a minimal, inescapable transient dissipation engendered by physical information processing not captured by asymptotic rates, but critical to adaptive thermodynamic processes such as found in biological systems. A component of transient dissipation, we also identify an implementation-dependent cost that varies from one physical substrate to another for the same information processing task. Applying these results to producing structured patterns from a structureless information reservoir, we show that \"retrodictive\" generators achieve the minimal costs. The results establish the thermodynamic toll imposed by a physical system's structure as it comes to optimally transduce information.",
+                        "Citation Paper Authors": "Authors:Alexander B. Boyd, Dibyendu Mandal, Paul M. Riechers, James P. Crutchfield"
+                    }
+                },
+                {
+                    "Sentence ID": 12,
+                    "Sentence": "focused on instan-\ntaneous memory and nonpredictive information rate, but\ndid not calculate total predictable information or a more\nstandard prediction-related metric. Reference ",
+                    "Citation Text": "A. C. Barato, D. Hartich, and U. Seifert. E\u000eciency\nof cellular information processing. New J. Physics ,\n16(10):103024, 2014.",
+                    "Citation": {
+                        "Citation Paper ID": "arXiv:1405.7241",
+                        "Citation Paper Title": "Title:Efficiency of cellular information processing",
+                        "Citation Paper Abstract": "Abstract:We show that a rate of conditional Shannon entropy reduction, characterizing the learning of an internal process about an external process, is bounded by the thermodynamic entropy production. This approach allows for the definition of an informational efficiency that can be used to study cellular information processing. We analyze three models of increasing complexity inspired by the E. coli sensory network, where the external process is an external ligand concentration jumping between two values. We start with a simple model for which ATP must be consumed so that a protein inside the cell can learn about the external concentration. With a second model for a single receptor we show that the rate at which the receptor learns about the external environment can be nonzero even without any dissipation inside the cell since chemical work done by the external process compensates for this learning rate. The third model is more complete, also containing adaptation. For this model we show inter alia that a bacterium in an environment that changes at a very slow time-scale is quite inefficient, dissipating much more than it learns. Using the concept of a coarse-grained learning rate, we show for the model with adaptation that while the activity learns about the external signal the option of changing the methylation level increases the concentration range for which the learning rate is substantial.",
+                        "Citation Paper Authors": "Authors:Andre C. Barato, David Hartich, Udo Seifert"
+                    }
+                }
+            ]
+        },
+        "http://arxiv.org/abs/1707.03922v1": {
+            "Paper Title": "RNA folding kinetics using Monte Carlo and Gillespie algorithms?",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1707.00769v2": {
+            "Paper Title": "Alchemical Response Parameters from an Analytical Model of Molecular\n  Binding",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1706.01345v2": {
+            "Paper Title": "Virtual reality analysis of intrinsic protein geometry with applications\n  to cis peptide planes",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1705.06848v1": {
+            "Paper Title": "SPRINT: Ultrafast protein-protein interaction prediction of the entire\n  human interactome",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1704.07969v1": {
+            "Paper Title": "Anisotropic twicing for single particle reconstruction using\n  autocorrelation analysis",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1704.04039v1": {
+            "Paper Title": "3D Deep Learning for Biological Function Prediction from Physical Fields",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1704.02513v1": {
+            "Paper Title": "Transcription factor clusters regulate genes in eukaryotic cells",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1703.08755v1": {
+            "Paper Title": "Contractility in an Extensile System",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1704.06301v1": {
+            "Paper Title": "Crystallization via tubing microfluidics permits both in situ and ex\n  situ X-ray diffraction",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1703.03449v2": {
+            "Paper Title": "Inferring repeat protein energetics from evolutionary information",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1703.02850v1": {
+            "Paper Title": "Pretata: predicting TATA binding proteins with novel features and\n  dimensionality reduction strategy",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1703.02066v1": {
+            "Paper Title": "Membranes by the Numbers",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1701.08086v1": {
+            "Paper Title": "Sequence-based prediction of function site and protein-ligand\n  interaction by a functionally annotated domain profile database",
+            "Sentences": []
+        },
+        "http://arxiv.org/abs/1701.03422v1": {
+            "Paper Title": "Confining Brownian motion of single nanoparticles in an ABELtrap",
+            "Sentences": []
+        }
+    }
+}
