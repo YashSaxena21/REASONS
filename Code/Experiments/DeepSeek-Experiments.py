@@ -241,7 +241,7 @@ def prompting(file_name, domain):
     return
 
 def main():
-    file_name = "/home/ysaxena1/manas_ada/users/ysaxena1/Legal_Work_Yash/Data/Database.json"
+    file_name = ""
     domain = "Database"
     prompting(file_name, domain)
 
