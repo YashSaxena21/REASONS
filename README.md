@@ -1,7 +1,7 @@
-# REASONS - A benchmark for REtrieval and Automated citationS Of scieNtific Sentences using Public and Proprietary LLMs
+# Attribution in Scientific Literature: New Benchmark and Methods
 
 # About
-This repository consists of the data as well as the codes for all the experiments conducted in the REASONS paper.
+This repository consists of the REASONS (REtrieval and Automated citationS Of scieNtific Sentences) dataset as well as the codes for all the experiments conducted in the paper.
 
 # Repository Structure
 The name of each file in the Code and Data folders specifically defines its purpose.
@@ -20,6 +20,7 @@ The name of each file in the Code and Data folders specifically defines its purp
 │   │   │   └── OpenAI_Adversarial_Experiments.py
 │   │   ├── Advanced_RAG_Llama2_Experiments.py
 │   │   ├── Advanced_RAG_Mistral_Experiments.py
+│   │   ├── Deepseek-R1_Experiments.py
 │   │   ├── Llama2_Experiments.py
 │   │   ├── Mistral_Experiments.py
 │   │   ├── Naive_RAG_Llama2_Experiments.py
@@ -27,6 +28,7 @@ The name of each file in the Code and Data folders specifically defines its purp
 │   │   ├── OpenAI_Experiments.py
 │   │   └── Perplexity_Experiments.py
 ├── Data
+│   ├── Adversarial.json
 │   ├── AI.json
 │   ├── Biomolecules.json
 │   ├── Cryptography.json
